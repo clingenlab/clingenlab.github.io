@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>CSS Part 2 Task</title>
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-    <link rel="stylesheet" href="CSS_Part2_master.css">
+    <link rel="stylesheet" href="https://github.com/clingenlab/clingenlab.github.io/blob/master/CSS_Level_Two_Spectrum.css">
   </head>
   <body>
     <h1>Inspired by Spectrum V by the Artist Ellsworth Kelly</h1>
